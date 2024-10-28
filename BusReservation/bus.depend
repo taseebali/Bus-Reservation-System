@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1675025459 source:d:\dha suffa\semester 1\[lab]programming fundamentals\new\new\bus\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+
+1674942749 source:d:\dha suffa\semester 1\[lab]programming fundamentals\new\new\bus\test.c
+	<stdio.h>
+
